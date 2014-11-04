@@ -3,7 +3,7 @@ Ionic project using native fb authentication
 
 A starting project for Ionic that supports authentication with native facebook integration
 
-## Plugins otherwise not available default with ionic
+## Phonegap Facebook plugin
 phonegap facebook plugin available at [phonegap-facebook-plugin](https://github.com/phonegap/phonegap-facebook-plugin.git)
 
 ## Why this project?
